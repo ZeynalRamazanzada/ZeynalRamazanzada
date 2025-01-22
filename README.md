@@ -1,22 +1,21 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="60"/>
   
-    <div id="badges" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-top: 10px;">
-    <a href="https://www.linkedin.com/in/zeynalrmznzd/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="height: 20px;"/>
-    </a>
-    <a href="https://leetcode.com/u/zeynalramazanzada/">
+   <div id="badges" style="display: flex; justify-content: center; gap: 0px; margin-top: 10px;">
+      <a href="https://www.linkedin.com/in/zeynalrmznzd/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100"/>
+      </a>
+       <a href="https://leetcode.com/u/zeynalramazanzada/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode Badge" style="height: 20px;"/>
     </a>
-    <a href="https://www.instagram.com/_z.ramazanov/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" style="height: 20px;"/>
-    </a>
-    <a href="mailto:zeynalaabi@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" style="height: 20px;"/>
-    </a>
-  </div>
-  
+      <a href="https://www.instagram.com/zeynal_rmznzd/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100"/>
+      </a>
+      <a href="mailto:zeynalaabi@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="70"/>
+      </a>
     </div>
+  </div>
   </div>
   
   
@@ -44,19 +43,6 @@
       <li>📧 How to reach me: <a href="mailto:zeynalaabi@gmail.com" style="color:blue; font-size: 4px;">zeynalaabi@gmail.com</a></li>
       <li>🌐 My website: <a href="https://bento.me/zeynalrmznzd" style="color:blue; font-size: 4px;">zeynalramazanzada</a></li>
     </ul>
-  </div>
-  
-  ---
-  
-  <!-- Languages and Tools Section -->
-  <div>
-    <h3 align="center" style="font-size: 14px;">Languages & Frameworks & Tools</h3>
-  </div>
-    <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="35" height="35"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="35" height="35"/>&nbsp;
-    </div>
   </div>
 
 ---
